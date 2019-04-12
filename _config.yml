@@ -1,7 +1,7 @@
 # Site settings
 ## Change the values as needed.
 title: "StuSerrl_blog"
-email: solio2@daum.net
+email: "solio2@daum.net"
 description: "Front-End, Back-End FOR JS"
 keywords: "Front-End, Back-End, JS"
 #url: "http://bitwiser.in/bitwiser-material" # the base hostname & protocol for your site
@@ -16,10 +16,10 @@ sass:
   sass_dir: _sass
   style: :compressed
 links:
-  facebook: https://www.facebook.com/profile.php?id=100011382379685
+  facebook: "https://www.facebook.com/profile.php?id=100011382379685"
   twitter: 
-  email: solio2@daum.net
-  github: https://github.com/SERRL
+  email: "solio2@daum.net"
+  github: "https://github.com/SERRL"
 exclude:
   - bower_components
   - README.md
